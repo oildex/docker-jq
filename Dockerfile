@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.9
 
 ENV JQ_VERSION=1.5-r4
 
